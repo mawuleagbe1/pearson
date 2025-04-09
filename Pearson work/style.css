@@ -105,10 +105,9 @@ nav .fa{
         height: 300px;
         width: 140px;
         top: 0;
-        right: -150px;
-        text-align: left;
+        right: hidden;
+        text-align: right;
         z-index: 2;
-        overflow: -moz-hidden-unscrollable;
         transition: 1s;
     }
     nav .fa{
@@ -179,7 +178,7 @@ p{
     margin-bottom: 1.3rem;
 }
 .about_btn{
-    margin-bottom: 15px;
+    margin-bottom: 10px;
     color: #fff;
     border: 1px solid #fff;
     padding: 8px 14px;
