@@ -108,6 +108,7 @@ nav .fa{
         right: -150px;
         text-align: left;
         z-index: 1;
+        overflow: hidden;
         transition: 1s;
     }
     nav .fa{
