@@ -416,7 +416,7 @@ form{
 }
 @media screen and (min-width:800px){
     .container{
-        max-width:1100px ;
+        max-width:100px ;
     }
     .contactform{
         grid-template-columns: 1fr 1fr;
@@ -425,6 +425,11 @@ form{
         flex-direction: row;
         justify-content: space-between;
     }
+    .map{
+        right:10px;
+        left:10px;
+        width:100px
+        height:100px
 }
 /* ------elmina_castle------ */
 .nav{
