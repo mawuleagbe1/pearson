@@ -107,8 +107,8 @@ nav .fa{
         top: 0;
         right: -150px;
         text-align: left;
-        z-index: 1;
-        overflow: hidden;
+        z-index: 2;
+        overflow: -moz-hidden-unscrollable;
         transition: 1s;
     }
     nav .fa{
