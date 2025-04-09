@@ -105,9 +105,9 @@ nav .fa{
         height: 300px;
         width: 140px;
         top: 0;
-        right: -100px;
+        right: -150px;
         text-align: left;
-        z-index: 0;
+        z-index: 1;
         transition: 1s;
     }
     nav .fa{
